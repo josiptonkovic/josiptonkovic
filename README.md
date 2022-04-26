@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josiptonkovic 
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning HTML, CSS, SASS, JavaScript and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: josip.tonkovic@outlook.com
 
